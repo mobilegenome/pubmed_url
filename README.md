@@ -12,9 +12,12 @@ This tools allows you to generate a list of paper titles (and authors) and get a
 
 Add paper titles to `list.txt`
 
+For example:
+
 ```
-
-
+Chromatin accessibility dynamics during cell fate reprogramming Dongwei Li, Xiaodong Shu,$
+tidybulk: an R tidy framework for modular transcriptomic data analysis
+SuperTAD: robust detection of hierarchical topologically associated domains with optimize$
 ```
 
 Run the query with `xargs`
