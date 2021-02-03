@@ -1,0 +1,3 @@
+Chromatin accessibility dynamics during cell fate reprogramming Dongwei Li, Xiaodong Shu, Ping Zhu, Duanqing Pei 
+tidybulk: an R tidy framework for modular transcriptomic data analysis
+SuperTAD: robust detection of hierarchical topologically associated domains with optimized structural information
